@@ -1,0 +1,18 @@
+body {
+	background-color: #f2f2f2;
+}
+
+h1 {
+	border-bottom: 1px solid #999;
+	padding-bottom: 5px;
+	margin-bottom: 10px;
+}
+
+h1,
+h2 {
+	color: #5cbfa2;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+	background-color: rgba(241,133,69, 0.5);
+}
